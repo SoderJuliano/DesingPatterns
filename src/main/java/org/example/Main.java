@@ -6,14 +6,6 @@ import org.example.util.GlobalLogger;
 
 import static java.util.logging.Level.INFO;
 
-/**
- * <h2>Padrões de Projeto (Design Patterns)</h2>
- * <p>
- * Padrões de Projeto são soluções reutilizáveis para problemas comuns que ocorrem no desenvolvimento de software.
- * Eles representam as melhores práticas desenvolvidas por desenvolvedores experientes ao longo do tempo.
- * O uso de padrões de projeto pode ajudar a tornar o código mais flexível, reutilizável e fácil de manter.
- * </p>
- */
 public class Main {
     public static void main(String[] args) {
 
