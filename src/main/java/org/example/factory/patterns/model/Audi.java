@@ -9,7 +9,7 @@ public class Audi implements Car {
 
     @Override
     public void move() {
-        GlobalLogger.log(Level.INFO, "BMW is stopping");
+        GlobalLogger.log(Level.INFO, "Audi is stopping");
     }
 
     @Override
